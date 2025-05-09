@@ -14,7 +14,7 @@ We've created beginner-friendly graphics to help you **visualize and remember** 
 ---
 
 ### 🔟 Top 10 Linux Commands
-![Top 10 Commands](./assets/linuc001.png)
+![Top 10 Commands](./assets/linux0.png)
 
 | Command | Description |
 |---------|-------------|
