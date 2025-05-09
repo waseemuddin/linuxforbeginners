@@ -1,5 +1,5 @@
 # linuxforbeginners - Day 01# 
-# 🐧 Essential Linux Commands for Beginners
+# 🐧 Essential Linux Commands for Beginners 🐧
 
 Welcome to the **Essential Linux Commands-Day01** repository!  
 This project is designed to help **new Linux users** get comfortable with the command line by introducing some of the **most frequently used commands**—the ones every beginner should know and will use daily.
@@ -81,4 +81,8 @@ This project is licensed under the [MIT License](./LICENSE).
 ---
 
 > *“The terminal might look intimidating at first, but it's one of the most powerful tools in your tech toolkit.”*
+
+
+
+
 
