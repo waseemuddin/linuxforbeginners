@@ -24,9 +24,13 @@ We've created beginner-friendly graphics to help you **visualize and remember** 
 | `htop` | Shows complete picture of different|
 
 ---
-
+## 🔝 BPYTOP OUTPUT
 ![Top 3 magic Commands3](./assets/03.png)
+
+## 🔝 GOTOP OUTPUT
 ![Top 3 magic Commands4](./assets/04.png)
+
+## 🔝 HTOP OUTPUT
 ![Top 3 magic Commands5](./assets/05.png)
 
 
