@@ -25,6 +25,11 @@ We've created beginner-friendly graphics to help you **visualize and remember** 
 
 ---
 
+![Top 3 magic Commands3](./assets/03.png)
+![Top 3 magic Commands4](./assets/04.png)
+![Top 3 magic Commands5](./assets/05.png)
+
+
 ## 📚 Why Learn These?
 
 These are **foundational commands** for navigating Linux. Whether you're a:
