@@ -1,7 +1,8 @@
 # 🐧 LINUX FOR BEGINNERS 🐧
 
-# 📁 Essential Linux Commands for Beginners
+# 📁 Linux Essential Commands for Beginners
 
-Welcome to the **Essential Linux Commands for begineers-Day01** repository!  
+Welcome to the **Linux Essential Commands for begineers** repository!  
 
 📦 [1. linuxforbeginners 💾 Day 01](./linux-day01.md)
+📦 [1. linuxforbeginners 💾 Day 02](./linux-day02.md)
