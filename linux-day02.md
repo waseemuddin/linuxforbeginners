@@ -1,6 +1,6 @@
 # 🐧 Essential Linux Commands for Beginners 🐧
 
-Welcome to the **Essential Linux Commands-Day01** repository!  
+Welcome to the **Essential Linux Commands-Day02** repository!  
 This project is designed to help **new Linux users** get comfortable with the command line by introducing some of the **most frequently used commands**—the ones every beginner should know and will use daily.
 
 ---
@@ -9,22 +9,19 @@ This project is designed to help **new Linux users** get comfortable with the co
 
 We've created beginner-friendly graphics to help you **visualize and remember** these commands more easily.
 
-### 🔝 Top Command Usage
+### 🔝 Linux 3 Magic Commands and Usage
 ---
 
 ### 🔟 Top 10 Linux Commands
-![Top 10 Commands](./assets/linux0.png)
+![Top 3 magic Commands](./assets/01.png)
+
+![Top 3 magic Commands2](./assets/02.png)
 
 | Command | Description |
 |---------|-------------|
-| `ls`    | List directory contents |
-| `cd`    | Change directories |
-| `mkdir` | Create new folders |
-| `rm`    | Remove files |
-| `touch` | Create an empty file |
-| `top` / `htop` | Monitor system processes |
-| `ping`  | Test internet/network connectivity |
-| `chmod`| Change file permissions |
+| `bpytop`    | For a real-time, eye-catching system stats display|
+| `gotop`    | For a real-time, CPU, Memory and Process Utilization|
+| `htop` | Shows complete picture of different|
 
 ---
 
