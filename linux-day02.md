@@ -12,7 +12,6 @@ We've created beginner-friendly graphics to help you **visualize and remember** 
 ### 🔝 Linux 3 Magic Commands and Usage
 ---
 
-### 🔟 Top 10 Linux Commands
 ![Top 3 magic Commands](./assets/01.png)
 
 ![Top 3 magic Commands2](./assets/02.png)
