@@ -1,0 +1,455 @@
+ 1669  cmatrix
+ 1670  ls
+ 1671  top
+ 1672  l
+ 1673  sls
+ 1674  ls
+ 1683  cd /home/
+ 1684  lks
+ 1685  ls
+ 1686  cd /
+ 1687  ls
+ 1688  cd mnt/
+ 1689  ls
+ 1690  cd ..
+ 1691  ls
+ 1692  cd tmp/
+ 1693  ls
+ 1694  cd ..
+ 1695  cd var/
+ 1696  ls
+ 1697  cd lo
+ 1698  cd log
+ 1699  ls
+ 1700  cd ..
+ 1714  cd /etc/
+ 1715  ls
+ 1716  cd ..
+ 1717  cd lib
+ 1718  ls
+ 1719  cd ..
+ 1720  cd media/
+ 1721  ls
+ 1722  cd user/
+ 1723  ls
+ 1724  cd ..
+ 1725  cd /opt/
+ 1726  ls
+ 1727  cd ..
+ 1728  ls
+ 1735  fdisk -l
+ 1736  sudo fdisk -l
+ 1737  ls
+ 1738  cd ..
+ 1739  ls -l /
+ 1740  ls -l /home/
+ 1741  ls -l /
+ 1742  ls
+ 1743  cd ls
+ 1744  cd lib
+ 1745  ls
+ 1746  cd //
+ 1747  cd /
+ 1748  cd /usr/lib
+ 1749  s
+ 1750  ls
+ 1760  code .
+ 1761  ls
+ 1762  cd ..
+ 1763  ls
+ 1764  su -
+ 1767  sudo su -
+ 1768  #command [options]" and then "<argument>"
+ 1769  help
+ 1770  help | grep for
+ 1771  man cd
+ 1772  man ls
+ 1773  man a
+ 1774  man ifconfig
+ 1775  ifconfig -a
+ 1776  ifconfig
+ 1777  man ifconfig
+ 1778  ifconfig -s
+ 1779  ifconfig -a
+ 1780  ifconfig -v
+ 1781  ifconfig -s
+ 1782  man ls
+ 1783  man lsblk 
+ 1784  lsblk -f
+ 1785  lsblk -fs
+ 1786  lsblk\
+ 1787  lsblk
+ 1788  lsblk ls
+ 1789  lsblk
+ 1790  man rsyslog.conf
+ 1791  man ssh
+ 1792  man sshd
+ 1793  systemctl sshd status
+ 1794  systemctl status sshd
+ 1795  systemctl docker status
+ 1796  systemctl firewall status
+ 1797  systemctl status firewall
+ 1798  systemctl status firewall.service
+ 1799  systemctl status docker
+ 1800  systemctl status ssh
+ 1801  systemctl status sshd
+ 1802  systemctl status ssh
+ 1803  ls
+ 1804  systemctl 
+ 1805  what is route
+ 1806  man route
+ 1807  route
+ 1808  man route
+ 1809  route -A
+ 1810  man route
+ 1811  what is route
+ 1812  whatis route
+ 1813  whereis route
+ 1814  cd /usr/sbin/
+ 1815  ls
+ 1816  ls | grep route 
+ 1817  cat route
+ 1818  q
+ 1819  ls | grep route ]
+ 1820  ls | grep route 
+ 1821  cat traceroute 
+ 1822  q
+ 1823  cd
+ 1824  whereis route
+ 1825  whatis rou
+ 1826  whatis route
+ 1827  whereis route
+ 1828  whereis cd
+ 1829  whatis cd
+ 1830  mandb
+ 1831  --user-db
+ 1832  mandb
+ 1833  whatis 
+ 1834  whereis route
+ 1835  whatis lsdk
+ 1836  lsblk 
+ 1837  whatis lsblk 
+ 1838  ls
+ 1839  man passwd
+ 1840  l
+ 1841  ls
+ 1842  l
+ 1843  man 5 passwd
+ 1844  man passwd
+ 1845  man man
+ 1846  lsblk --help
+ 1847  lsblk WW
+ 1848  lsblk --help
+ 1849  lsblk WWW
+ 1850  ls --help
+ 1851  pwd
+ 1852  cd ..
+ 1853  pwd
+ 1854  cd 
+ 1886  ls
+ 1887  cd /etc/
+ 1888  ls
+ 1889  cd pws
+ 1890  pwd
+ 1891  cd 
+ 1906  cd /proc/
+ 1907  cd /etc/
+ 1908  ls
+ 1909  cd /etc/
+ 1910  cd /etc/log
+ 1911  cd /etc/logcheck/
+ 1912  cd /etc/
+ 1913  pwd
+ 1914  cd /etc/logcheck/
+ 1915  pwd
+ 1916  cd 
+ 1917  ls
+ 1918  cd /etc/logcheck/
+ 1919  ls
+ 1920  cd 
+ 1921  cd /etc/
+ 1922  cd /etc/apt/
+ 1923  pwd
+ 1924  cd 
+ 1925  cd /home/
+ 1926  ls
+ 1927  cd user/
+ 1928  ls
+ 1929  ls -l
+ 1930  ls
+ 1931  ls -la
+ 1932  ls -l
+ 1933  ls /var/log/
+ 1934  ls -l /var/log
+ 1935  ls -l
+ 1936  ls -la /etc/logcheck/
+ 1937  ls -l /etc/logcheck/
+ 1938  ls -lh
+ 1939  ls\
+ 1940  midr sn
+ 1941  man mkdir
+ 1942  mkdir ss
+ 1943  ls ss/
+ 1944  ls
+ 1945  cd ss/
+ 1946  ls
+ 1947  cd ..
+ 1948  rm ss/
+ 1949  rm -f ss
+ 1950  rm -d ss
+ 1951  ls
+ 1952  cd ss
+ 1953  mkdir -p /etc/linux1/uni1/redhat1
+ 1954  mkdir -p /home/linux1/uni1/redhat1
+ 1955  sudo mkdir -p /home/linux1/uni1/redhat1
+ 1956  ls
+ 1957  cd /home/linux1/uni1/redhat1/
+ 1958  cd 
+ 1959  pwd
+ 1960  cd ho
+ 1961  cd /home/
+ 1962  ls
+ 1963  rm -d linux1/uni1/redhat1/
+ 1964  ls
+ 1965  sudo rm -d linux1/uni1/redhat1/
+ 1966  ls
+ 1967  sudo rm -d linux1/uni1/
+ 1968  sudo rm -d linux1/
+ 1969  ls
+ 1970  cd 
+ 1971  cd  /home/
+ 1972  l
+ 1973  ls
+ 1974  cd 
+ 1975  ls
+ 1976  tree
+ 1977  tree /etc/
+ 1978  tree /home/
+ 1979  alias
+ 1980  cal > cal
+ 1981  ./pass.sh 
+ 1982  ./passgen.sh 
+ 2005  cat /dev/sda1
+ 2006  sudi cat /dev/sda1
+ 2007  sudo cat /dev/sda1
+ 2008  ls -l /dev/sda1
+ 2009  cal > cal.txt
+ 2010  sudo apt install ncal
+ 2011  cal > cal.txt
+ 2012  cat cal.txt 
+ 2013  file cal.txt 
+ 2014  cal
+ 2015  datw
+ 2016  date
+ 2017  cat date
+ 2018  file date
+ 2019  lsblk
+ 2020  file /dev/sda1
+ 2021  file /dev/sda1 
+ 2022  file /dev/
+ 2023  file /dev/sda2
+ 2024  file /dev/sda4
+ 2025  file /dev/sda5
+ 2026  cat /proc/cpuinfo 
+ 2027  file  /proc/cpuinfo 
+ 2028  vi /proc/cpuinfo 
+ 2029  cd /etc/
+ 2030  ls
+ 2031  file logrotate.
+ 2032  file logrotate.conf 
+ 2033  cat logrotate.conf 
+ 2034  q
+ 2035  cd /mnt/
+ 2036  ls
+ 2037  ls -l
+ 2038  cd A6D21691D21665B9/
+ 2039  ls
+ 2040  cd ..
+ 2041  l
+ 2042  cd ..
+ 2043  cd mnt/
+ 2044  ls
+ 2045  cd C07028277028269E/
+ 2046  ls
+ 2047  cd SysOps/
+ 2048  l;s
+ 2049  ls
+ 2050  cd ..
+ 2051  ls
+ 2052  cd ..
+ 2053  ls
+ 2054  pwds
+ 2055  pwd
+ 2056  cd //
+ 2057  pwd
+ 2058  cd 
+ 2059  pwd
+ 2060  cd /mnt/
+ 2061  ls
+ 2062  cd ..
+ 2063  echo $
+ 2064  echo $path
+ 2065  ls
+ 2066  pws
+ 2067  pwd
+ 2068  cd 
+ 2069  ls
+ 2070  pwd
+ 2071  ls
+ 2072  ls -l
+ 2073  ls
+ 2074  ls -l
+ 2075  touch Untitled.ipynb 
+ 2076  ls -l
+ 2077  touch -t 201505310615 Untitled.ipynb 
+ 2078  ls -l
+ 2079  touch -t 202505310615 Untitled.ipynb 
+ 2080  ls -l
+ 2081  ls
+ 2082  touch wasim.txt
+ 2083  rm -i wasim.txt 
+ 2084  touch wasim.txt
+ 2085  rm wasim.txt 
+ 2086  ls -l
+ 2087  ls
+ 2088  rm wasim.txt 
+ 2089  touch wasim.txt
+ 2090  alias rm
+ 2091  alias rm='rm -i'
+ 2092  alias rm
+ 2093  rm wasim.txt 
+ 2094  alias rm
+ 2095  unalias rm
+ 2096  alias rm
+ 2097  rm wasim.txt 
+ 2098  touch wasim.txt
+ 2099  rm -i wasim.txt 
+ 2100  alias rm='rm -i'
+ 2101  alias rm
+ 2102  rm -i wasim.txt 
+ 2103  rm wasim.txt 
+ 2104  rm -rf -i wasim.txt 
+ 2105  rm -rf wasim.txt 
+ 2106  rm wasim.txt 
+ 2107  touch wasim.txt
+ 2108  ll wasim.txt 
+ 2109  cp wasim.txt new.txt
+ 2110  cat wasim.txt 
+ 2111  cat new
+ 2112  cat new.txt 
+ 2113  ls
+ 2114  cat new.txt 
+ 2115  ll wasim.txt new.txt 
+ 2116  cat >> Untitled.ipynb wasim.txt 
+ 2117  cat wasim.txt 
+ 2118  cat Untitled.ipynb 
+ 2119  cat > Untitled.ipynb wasim.txt 
+ 2120  cat wasim.txt 
+ 2121  cp > Untitled.ipynb wasim.txt 
+ 2122  ls
+ 2123  cat Untitled.ipynb 
+ 2124  cat wasim.txt 
+ 2125  lsc
+ 2126  ls
+ 2127  ls -l
+ 2128  cat Untitled.ipynb 
+ 2129  vi Uni
+ 2130  vi Untitled.ipynb 
+ 2131  cp wasim.txt /tmp
+ 2132  ll /tmp/
+ 2133  ll /tmp/wasim.txt 
+ 2134  ls
+ 2135  ll /var/log/
+ 2136  ll tm
+ 2137  ll tmp
+ 2138  ll /tmp/
+ 2139  cp /var/log/syslog /tmp/hsperfdata_jenkins/samlog
+ 2140  cp -r /var/log/syslog /tmp/hsperfdata_jenkins/samlog
+ 2141  sudo cp -r /var/log/syslog /tmp/hsperfdata_jenkins/samlog
+ 2142  cat /tmp/hsperfdata_jenkins/samlog 
+ 2143  sudo cat /tmp/hsperfdata_jenkins/samlog 
+ 2144  cat-i  /tmp/hsperfdata_jenkins/samlog 
+ 2145  cat-i /tmp/hsperfdata_jenkins/samlog 
+ 2146  cat -i /tmp/hsperfdata_jenkins/samlog 
+ 2147  sudo cp -i /var/log/syslog /tmp/hsperfdata_jenkins/samlog
+ 2148  sudo mv /var/log/syslog /tmp/hsperfdata_jenkins/samlo3
+ 2149  sudo mv /tmp/hsperfdata_jenkins/samlo3 /var/log/syslog
+ 2150  cat /var/log/syslog
+ 2151  ll
+ 2152  l
+ 2153  ll
+ 2154  string /bin/zstd
+ 2155* strings /bin/
+ 2156  string /bin/ansible
+ 2157  strings /bin/ansible
+ 2158  ll /bin
+ 2159  ll /bin/
+ 2160  strings /bin/zip
+ 2161  ls
+ 2162  echo Heelo worlld
+ 2163  echo 'Hello     world'
+ 2164  echo "Hello     world"
+ 2165  echo $SHELL
+ 2166  echo $HOSTNAME
+ 2167  echo $hostname
+ 2168  echo $shell
+ 2169  echo $SHELL
+ 2170  var1=100
+ 2171  echo $var1
+ 2172  echo $var2
+ 2173  echo '$var1'
+ 2174  echo $var1"
+ 2175  echo "$var1"
+ 2176  echo -e "A line with \na newline"
+ 2177  echo -e "A line with  newline"
+ 2178  echo -e "A line with \na newline"
+ 2179  echo "A line with \na newline"
+ 2180  echo -e "A line with \na newline"
+ 2181  echo -e "Vikae \nWaseem"
+ 2182  echo -e "Vikae \tWaseem"
+ 2183  echo -e "Vika \tWaseem"
+ 2184  echo -e "Vika \ttWaseem"
+ 2185  type cd
+ 2186  type ls
+ 2187  type man
+ 2188  type who
+ 2189  which ls
+ 2190  cat /usr/bin/ls
+ 2191  strings /usr/bin/ls
+ 2192  type pwd
+ 2193  which pwd
+ 2194  strings /usr/bin/pwd
+ 2195  cal
+ 2196  cat cal
+ 2197  cat cal.txt
+ 2198  alias 
+ 2199  rm -i cal.txt 
+ 2200  ls -lh
+ 2201  ll
+ 2202  ls -lh
+ 2203  alias ll
+ 2204  ls
+ 2205  alias ll
+ 2206  ll
+ 2207  alias ll
+ 2208  ls -alF
+ 2209  alF
+ 2210  -alF
+ 2211  ls -alF
+ 2212  alias ll
+ 2213  date
+ 2214  set -x
+ 2215  date
+ 2216  ls
+ 2217  ll
+ 2218  ls
+ 2219  man
+ 2220  set +x
+ 2221  man
+ 2222  man ls
+ 2223  ls
+ 2224  hostname
+ 2225  ls
+ 2226  cd linuxforbeginners/
+ 2227  ls
+ 2228  history > history_commands.txt
